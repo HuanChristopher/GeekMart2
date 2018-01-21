@@ -1,3 +1,6 @@
+
+// Classe desativada
+
 /*package br.ufrpe.geekMart;
 
 import br.ufrpe.geekMart.negocio.*;
